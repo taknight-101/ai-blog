@@ -6,8 +6,6 @@ permalink: /about/
 order: 4
 ---
 
-![](/images/about.jpg)
-
 Hi there 👋
 
 I'm a Software Engineer with peeking eyes
